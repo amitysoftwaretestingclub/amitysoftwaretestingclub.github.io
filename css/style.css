@@ -29,7 +29,7 @@ h3 {
 
 h4 {
     font-size: 2em;
-    text-shadow: 1px 1px #4db6ac;
+    text-shadow: 1px 1px #A1887F;
 }
 
 p {
@@ -41,7 +41,7 @@ p {
 }
 
 hr {
-    border-color: #4db6ac;
+    border-color: #A1887F;
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 0;
@@ -53,7 +53,7 @@ a {
 }
 
 strong {
-    color: #004d40;
+    color: #3E2723;
 }
 
 article {
@@ -69,11 +69,11 @@ article {
  *
  */
 .bg-primary {
-    background-color: #009688;
+    background-color: #795548;
 }
 
 .bg-primary-light {
-    background-color: #4db6ac;
+    background-color: #A1887F;
 }
 
 .align-right {
@@ -128,9 +128,9 @@ article {
 }
 
 .nav a:hover {
-    color: #004d40;
-    background-color: #009688;
-    box-shadow: 2px 2px 2px #4db6ac;
+    color: #3E2723;
+    background-color: #795548;
+    box-shadow: 2px 2px 2px #A1887F;
     font-weight: bold;
 }
 
@@ -157,7 +157,7 @@ article {
 }
 
 .content hr {
-    border-color: #4db6ac;
+    border-color: #A1887F;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -175,7 +175,7 @@ article {
 
 .section-head {
     text-transform: uppercase;
-    color: #00bfA5;
+    color: #4E342E;
 }
 
 /*
@@ -194,7 +194,7 @@ article {
     border-radius: 10px;
     font-size: 22px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, .4);
-    background: #009688;
+    background: #795548;
 }
 
 
@@ -216,10 +216,10 @@ article {
 }
 
 #current-page a {
-    color: #004d40;
+    color: #3E2723;
     font-weight: bolder;
-    background-color: #009688;
-    box-shadow: 5px 2px 2px #4db6ac;
+    background-color: #795548;
+    box-shadow: 5px 2px 2px #A1887F;
 }
 
 #head {
