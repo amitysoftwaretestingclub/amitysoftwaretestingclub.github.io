@@ -19,7 +19,7 @@ hr {
 }
 
 .nav-item {
-    background-color: #009688;
+    background-color: #795548;
 }
 
 .nav-item a:hover {
@@ -54,7 +54,7 @@ hr {
 
 
 .blog:hover {
-    color: #004d40;
+    color: #3E2723;
 }
 
 #current-page a {
